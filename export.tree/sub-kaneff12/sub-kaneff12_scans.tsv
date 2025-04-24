@@ -1,4 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-kaneff12_T1w.nii.gz	2000-01-01T00:00:00	samhutch	5cf495c0
-func/sub-kaneff12_task-speech_run-001_bold.nii.gz	2000-01-01T00:00:01	samhutch	b19469d8
-func/sub-kaneff12_task-speech_run-002_bold.nii.gz	2000-01-01T00:00:02	samhutch	d5fc169b
