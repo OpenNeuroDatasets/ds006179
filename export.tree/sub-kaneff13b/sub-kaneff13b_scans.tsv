@@ -1,6 +1,0 @@
-filename	acq_time	operator	randstr
-func/sub-kaneff13b_task-ebavwfa_run-001_bold.nii.gz	2000-01-01T00:00:00	samhutch	7513e46b
-func/sub-kaneff13b_task-ebavwfa_run-002_bold.nii.gz	2000-01-01T00:00:01	samhutch	6f69c1a0
-func/sub-kaneff13b_task-ebavwfa_run-003_bold.nii.gz	2000-01-01T00:00:02	samhutch	024ce2cd
-func/sub-kaneff13b_task-ebavwfa_run-004_bold.nii.gz	2000-01-01T00:00:03	samhutch	49e7d08b
-func/sub-kaneff13b_task-ebavwfa_run-005_bold.nii.gz	2000-01-01T00:00:04	samhutch	8a59edcb
